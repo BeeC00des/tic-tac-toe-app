@@ -58,3 +58,9 @@ body {
    background-color:aqua;
    border:none; 
 }
+
+@media only screen and (max-width: 768px) {
+   .board{
+      width: 70%;
+   }
+}
